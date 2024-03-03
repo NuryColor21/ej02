@@ -1,0 +1,50 @@
+body {
+    background-color: #f8bbd0;
+}
+
+h1{
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 50px;
+}
+
+h2{
+    font-family: 'Quicksand', sans-serif;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    margin-left: 50px; 
+    margin-right: 50px; 
+    text-align: justify;
+}
+
+.grande {
+    font-size: 15px;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.imagenlink{
+    width: 300px;
+    height: auto;
+}
+
+.imagenshadow{
+    width: 500px;
+    height: auto;
+}
+
+.imagenleon{
+    width: 350px;
+    height: auto;
+}
+
+.imagenleon, .imagenlink, .imagenshadow{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
